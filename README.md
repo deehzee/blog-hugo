@@ -5,13 +5,15 @@ Trial and error with Hugo blog...
 ## Colophon
 
 * Static site generator: [Hugo](https://gohugo.io/)
-* Academic theme: [Academic](https://themes.gohugo.io/academic/)
-* Academia theme: [Academia](https://themes.gohugo.io/academia-hugo/)
-* Anatole theme: [Anatole](https://themes.gohugo.io/theme/anatole/)
-* Beautiful Hugo theme: [Beautiful Hugo](https://themes.gohugo.io/beautifulhugo/)
-* Lithium theme: [Lithium](https://themes.gohugo.io/hugo-lithium-theme/)
-* Ramium theme: [Ramium](https://themes.gohugo.io//theme/ramium/)
-* uBlogger theme: [uBlogger](https://themes.gohugo.io/ublogger/)
+* [Academic Hugo Theme](https://themes.gohugo.io/academic/)
+* [Academia Hugo Theme](https://themes.gohugo.io/academia-hugo/)
+* [Anatole Hugo Theme](https://themes.gohugo.io/theme/anatole/)
+* [Beautiful Hugo Theme](https://themes.gohugo.io/beautifulhugo/)
+* [Bento Hugo Theme](https://themes.gohugo.io//theme/bento/)
+* [Eureka Hugo Theme](https://themes.gohugo.io/hugo-eureka/)
+* [Lithium Hugo Theme](https://themes.gohugo.io/hugo-lithium-theme/)
+* [Ramium Hugo Theme](https://themes.gohugo.io//theme/ramium/)
+* [uBlogger Hugo Theme](https://themes.gohugo.io/ublogger/)
 
 <!--
 Using `academic` theme. See:<br>
